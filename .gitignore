@@ -274,3 +274,4 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+/worksheets/worksheets_iot.pdf
